@@ -1,0 +1,5 @@
+{
+  "name": "Psychedelic Video Prompt Generator",
+  "description": "An application that uses AI to generate creative video prompts from a vibrant, psychedelic image and its detailed crops.",
+  "requestFramePermissions": []
+}
